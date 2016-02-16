@@ -3,12 +3,11 @@
   height: 50px;
 }
 
-.social .link:hover {
-  padding: 20px;
+.social .link {
+  padding: 5px;
   color: white;
 }
 
-.social .link.facebook {
-  background-color: #3B5998;
-  color: white;
+.social .link:hover.facebook {
+  color: #3B5998;
 }
