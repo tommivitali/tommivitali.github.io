@@ -33,3 +33,8 @@
   margin-left: -5px;
   transform: translateX(5px) rotate(360deg);
 }
+
+.social .link.facebook {
+  background-color: #3B5998;
+  color: white;
+}
