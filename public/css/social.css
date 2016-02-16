@@ -11,3 +11,7 @@
 .social .link:hover.facebook {
   color: #3B5998;
 }
+
+.social .link:hover.twitter {
+  color: #00ACEE;
+}
