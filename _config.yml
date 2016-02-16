@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            HydeMod
-tagline:          'Hyde Modified'
+title:            Tom's Blog
+tagline:          'Tom\'s Blog'
 description:      'The Hyde template for Jekyll modified'
 baseurl:          /
 
