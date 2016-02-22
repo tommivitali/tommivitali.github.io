@@ -23,7 +23,7 @@ div.social {
   color: #0077B5;
 }
 
-p {
+.post p {
 	text-align: justify;
     text-justify: inter-word;
 }
