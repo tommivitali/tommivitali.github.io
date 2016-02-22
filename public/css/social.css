@@ -22,3 +22,8 @@ div.social {
 .social .link:hover.linkedin {
   color: #0077B5;
 }
+
+p {
+	text-align: justify;
+    text-justify: inter-word;
+}
